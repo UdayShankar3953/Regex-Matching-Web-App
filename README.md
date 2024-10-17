@@ -33,7 +33,7 @@ You can also validate if a given email id is valid or not:
 
 ## Deployment
 
-This application is deployed on AWS Cloud. You can access it here:( http://44.203.187.205:5000/)
+This application is deployed on AWS Cloud. You can access it here:(http://13.48.10.45/)
 
 ## Technologies Used
 
@@ -41,10 +41,3 @@ This application is deployed on AWS Cloud. You can access it here:( http://44.20
 - Flask
 - HTML
 - CSS
-## Contributors
-
-Shiva-Ganti-17
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
